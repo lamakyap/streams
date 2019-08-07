@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "my streams",
+      "description": "this is great stream",
+      "id": 1
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This Stream Is Made By Me!",
+      "userId": "118181536533715513278",
+      "id": 2
+    },
+    {
+      "title": "Me Refactoring the Stream create component ",
+      "description": "This stream is about to refactoring ",
+      "id": 6
+    }
+  ]
+}
